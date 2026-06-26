@@ -4,7 +4,7 @@ A production-grade, low-latency geospatial demand forecasting system for high-th
 
 ## 🔗 Live Links
 * **Source Code Repository:** [https://github.com/AshwaPoo/geospatial-marketplace-simulator](https://github.com/AshwaPoo/geospatial-marketplace-simulator)
-* **Interactive Web Dashboard:** [PASTE_YOUR_STREAMLIT_CLOUD_URL_HERE]
+* **Interactive Web Dashboard:** [https://ashwapoo-geospatial-marketplace-simulator-dashboard-wt4aqn.streamlit.app/]
 
 > **Note:** The public web application hosted on Streamlit Cloud runs in high-fidelity fallback simulation mode to showcase the frontend 3D rendering. The full, low-latency FastAPI backend microservice runs locally for live, high-throughput engineering demonstrations.
 
