@@ -2,6 +2,12 @@
 
 A production-grade, low-latency geospatial demand forecasting system for high-throughput ride-hailing marketplace dispatch. This system translates continuous spatial coordinates into optimized discrete hexagonal grids to predict market-space vehicle demand fluctuations.
 
+## 🔗 Live Links
+* **Source Code Repository:** [https://github.com/AshwaPoo/geospatial-marketplace-simulator](https://github.com/AshwaPoo/geospatial-marketplace-simulator)
+* **Interactive Web Dashboard:** [PASTE_YOUR_STREAMLIT_CLOUD_URL_HERE]
+
+> **Note:** The public web application hosted on Streamlit Cloud runs in high-fidelity fallback simulation mode to showcase the frontend 3D rendering. The full, low-latency FastAPI backend microservice runs locally for live, high-throughput engineering demonstrations.
+
 ## 🏗️ Architecture Overview
 
 The system architecture is bifurcated into two core phases: an offline heavy data engineering/modeling pipeline and an online low-latency inference delivery network.
